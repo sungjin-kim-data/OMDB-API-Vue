@@ -1,26 +1,5 @@
 # Vue3
 
-## Installation
-
-```bash
-# Default.
-$ npx degit ParkYoungWoong/vue3-webpack-template DIRECTORY_NAME
-
-# With ESLint, Add `#eslint`.
-$ npx degit ParkYoungWoong/vue3-webpack-template#eslint DIRECTORY_NAME
-
-# With ESLint + Vuex, Add `#vuex`.
-$ npx degit ParkYoungWoong/vue3-webpack-template#vuex DIRECTORY_NAME
-
-# With ESLint + Vuex + VueRouter, Add `#vue-router`.
-$ npx degit ParkYoungWoong/vue3-webpack-template#vue-router DIRECTORY_NAME
-
-# Start!
-$ cd DIRECTORY_NAME
-$ npm i
-$ npm run dev
-```
-
 ## Specs
 
 - Vue3
