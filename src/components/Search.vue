@@ -65,11 +65,11 @@ export default {
   },
   methods: {
     async apply() {
-      this.$store.dispatch('movie/searchMovie', {
+      this.$store.dispatch('movie/searchMovies', {
         title: this.title,
         type: this.type,
         number: this.number,
-        year: this.year
+        year: this.year,
       })
     }
   }
